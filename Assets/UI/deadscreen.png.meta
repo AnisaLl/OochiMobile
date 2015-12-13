@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 6c874d09e865c7c47bc5eee536606c89
+timeCreated: 1448835788
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: deadscreen_0
+    21300002: deadscreen_blue
+    21300004: deadscreen_red
+    21300006: deadscreen_green
+    21300008: game_over
+    21300010: try_again
+    21300012: main_menu
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: deadscreen_0
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1935
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deadscreen_blue
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1542
+        width: 783
+        height: 393
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deadscreen_red
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1549
+        width: 713
+        height: 389
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deadscreen_green
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 1559
+        width: 768
+        height: 374
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: game_over
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1180
+        width: 1836
+        height: 314
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: try_again
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 716
+        width: 1113
+        height: 309
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: main_menu
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 307
+        width: 1118
+        height: 304
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
